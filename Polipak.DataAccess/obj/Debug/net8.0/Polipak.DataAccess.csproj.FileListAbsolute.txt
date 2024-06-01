@@ -1,0 +1,15 @@
+C:\Users\рс\source\repos\Polipak.UI\Polipak.DataAccess\bin\Debug\net8.0\Polipak.DataAccess.deps.json
+C:\Users\рс\source\repos\Polipak.UI\Polipak.DataAccess\bin\Debug\net8.0\Polipak.DataAccess.dll
+C:\Users\рс\source\repos\Polipak.UI\Polipak.DataAccess\bin\Debug\net8.0\Polipak.DataAccess.pdb
+C:\Users\рс\source\repos\Polipak.UI\Polipak.DataAccess\bin\Debug\net8.0\Polipak.Entities.dll
+C:\Users\рс\source\repos\Polipak.UI\Polipak.DataAccess\bin\Debug\net8.0\Polipak.Entities.pdb
+C:\Users\рс\source\repos\Polipak.UI\Polipak.DataAccess\obj\Debug\net8.0\Polipak.DataAccess.csproj.AssemblyReference.cache
+C:\Users\рс\source\repos\Polipak.UI\Polipak.DataAccess\obj\Debug\net8.0\Polipak.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\Polipak.UI\Polipak.DataAccess\obj\Debug\net8.0\Polipak.DataAccess.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\Polipak.UI\Polipak.DataAccess\obj\Debug\net8.0\Polipak.DataAccess.AssemblyInfo.cs
+C:\Users\рс\source\repos\Polipak.UI\Polipak.DataAccess\obj\Debug\net8.0\Polipak.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\Polipak.UI\Polipak.DataAccess\obj\Debug\net8.0\Polipak..921F84FF.Up2Date
+C:\Users\рс\source\repos\Polipak.UI\Polipak.DataAccess\obj\Debug\net8.0\Polipak.DataAccess.dll
+C:\Users\рс\source\repos\Polipak.UI\Polipak.DataAccess\obj\Debug\net8.0\refint\Polipak.DataAccess.dll
+C:\Users\рс\source\repos\Polipak.UI\Polipak.DataAccess\obj\Debug\net8.0\Polipak.DataAccess.pdb
+C:\Users\рс\source\repos\Polipak.UI\Polipak.DataAccess\obj\Debug\net8.0\ref\Polipak.DataAccess.dll

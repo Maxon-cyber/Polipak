@@ -1,0 +1,11 @@
+C:\Users\рс\source\repos\Polipak.UI\Polipak.Entities\bin\Debug\net8.0\Polipak.Entities.deps.json
+C:\Users\рс\source\repos\Polipak.UI\Polipak.Entities\bin\Debug\net8.0\Polipak.Entities.dll
+C:\Users\рс\source\repos\Polipak.UI\Polipak.Entities\bin\Debug\net8.0\Polipak.Entities.pdb
+C:\Users\рс\source\repos\Polipak.UI\Polipak.Entities\obj\Debug\net8.0\Polipak.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рс\source\repos\Polipak.UI\Polipak.Entities\obj\Debug\net8.0\Polipak.Entities.AssemblyInfoInputs.cache
+C:\Users\рс\source\repos\Polipak.UI\Polipak.Entities\obj\Debug\net8.0\Polipak.Entities.AssemblyInfo.cs
+C:\Users\рс\source\repos\Polipak.UI\Polipak.Entities\obj\Debug\net8.0\Polipak.Entities.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\Polipak.UI\Polipak.Entities\obj\Debug\net8.0\Polipak.Entities.dll
+C:\Users\рс\source\repos\Polipak.UI\Polipak.Entities\obj\Debug\net8.0\refint\Polipak.Entities.dll
+C:\Users\рс\source\repos\Polipak.UI\Polipak.Entities\obj\Debug\net8.0\Polipak.Entities.pdb
+C:\Users\рс\source\repos\Polipak.UI\Polipak.Entities\obj\Debug\net8.0\ref\Polipak.Entities.dll
